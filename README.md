@@ -10,6 +10,24 @@
 
 [https://felipeg-almeida.github.io/protech-computers/](https://felipeg-almeida.github.io/protech-computers/)
 
+<h2>📷 Capturas de Tela </h2>
+    
+Lista de produtos
+    
+![felipeg-almeida github io_protech-computers_produtos](https://github.com/FelipeG-Almeida/protech-computers/assets/73674044/c2aa0f74-7778-4522-9727-33aac2fa3b75)
+    
+Página de detalhes do produto
+
+![felipeg-almeida github io_protech-computers_produtos_descricao=Mouse (1)](https://github.com/FelipeG-Almeida/protech-computers/assets/73674044/6e935f20-31f9-46cf-b8bb-178bd397f4e2)
+
+Carrinho
+
+![felipeg-almeida github io_protech-computers_produtos_descricao=Mouse (2)](https://github.com/FelipeG-Almeida/protech-computers/assets/73674044/8cc05cd3-ba4c-4823-8439-bcf2dccae5ad)
+
+Página de contato
+
+![felipeg-almeida github io_protech-computers_produtos_descricao=Mouse (3)](https://github.com/FelipeG-Almeida/protech-computers/assets/73674044/b55c02ce-bab6-4e4d-b4a1-215e7c1645d6)
+
  <h2>🛠️ Passos para Configuração:</h2>
 
 <p>1. Clone o Repositório</p>
@@ -33,7 +51,7 @@ npm install
 <p>4. Inicie o servidor:</p>
 
 ```
-ng serve
+npm start
 ```
   
 <h2>📑 Funcionalidades</h2>
@@ -57,5 +75,9 @@ Tecnologias utilizadas no projeto:
 -   TypeScript
 -   HTML
 -   CSS
+
+<h2> 🤓 Aprendizados</h2>
+
+Como alguém que teve o React como meu primeiro contato com frameworks front-end, o Angular se mostrou um grande desafio devido à sua maior complexidade e dependência de comandos de linha. No entanto, ao explorar mais a fundo, descobri que essa ferramenta pode ser incrivelmente poderosa e oferece recursos bastante práticos quando dominada adequadamente.
 
 ---
