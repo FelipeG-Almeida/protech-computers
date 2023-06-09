@@ -1,27 +1,61 @@
-# ProTech
+<h1 align="center" id="title">Protech Computers</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+<p align="center"><img src="https://socialify.git.ci/FelipeG-Almeida/protech-computers/image?description=1&amp;descriptionEditable=ProTechComputers%2C%20uma%20aplica%C3%A7%C3%A3o%20web%20de%20e-commerce%20de%20produtos%20de%20hardware%20desenvolvida%20unicamente%20para%20fins%20did%C3%A1ticos.&amp;language=1&amp;logo=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F480%2Fangularjs.png&amp;name=1&amp;owner=1&amp;pattern=Solid&amp;theme=Light" alt="project-image"></p>
 
-## Development server
+<p id="description">Este é o projeto ProTech Computers uma aplicação web de e-commerce de produtos de hardware desenvolvida como parte do Programa Trainee Start da Capgemini unicamente para fins didáticos.</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="shields"><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="shields"></p>
 
-## Code scaffolding
+<h2>🚀 Demo</h2>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[https://felipeg-almeida.github.io/protech-computers/](https://felipeg-almeida.github.io/protech-computers/)
 
-## Build
+ <h2>🛠️ Passos para Configuração:</h2>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p>1. Clone o Repositório</p>
 
-## Running unit tests
+```
+git clone https://felipeg-almeida.github.io/protech-computers.git
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<p>2. Entre na pasta do projeto</p>
 
-## Running end-to-end tests
+```
+cd protech-computers
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<p>3. Instale as dependências do projeto:</p>
 
-## Further help
+```
+npm install
+```
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p>4. Inicie o servidor:</p>
+
+```
+ng serve
+```
+  
+<h2>📑 Funcionalidades</h2>
+
+Algumas funcionalidades do projeto são:
+
+*   Listar produtos existentes
+*   Pesquisar produtos pela barra de pesquisa
+*   Acessar detalhes de um produto específico
+*   Adicionar/remover produtos do carrinho
+*   Escolher a quantidade de cada item
+*   Acessar o formulário de contato
+
+  
+  
+<h2>💻 Tecnologias Utilizadas</h2>
+
+Tecnologias utilizadas no projeto:
+
+-   Angular
+-   TypeScript
+-   HTML
+-   CSS
+
+---
